@@ -1,0 +1,38 @@
+/* Add this to your styles (e.g., styles.css) */
+
+.profile-container {
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-image {
+    margin-bottom: 20px;
+}
+
+.profile-image img {
+    border-radius: 50%;
+    border: 3px solid #3490dc;
+}
+
+.profile-details h1 {
+    font-size: 28px;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.join-date {
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 15px;
+}
+
+.profile-bio p {
+    font-size: 16px;
+    color: #333;
+}
+
+/* Add any additional styling as needed */

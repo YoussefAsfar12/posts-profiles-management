@@ -1,0 +1,22 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.success-message {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background-color: #dff0d8;
+    color: #3c763d;
+}
